@@ -1,4 +1,4 @@
-# ngx-tree sample code!
+# ngx-treeview sample code!
 
  - Create a sample code using ngx-treeview
  - Note
